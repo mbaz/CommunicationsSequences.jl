@@ -1,5 +1,6 @@
 module CommunicationsSequences
 
-# Write your package code here.
+include("lfsr.jl")
+include("barker.jl")
 
 end
